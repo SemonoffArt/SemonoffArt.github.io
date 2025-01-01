@@ -2,11 +2,11 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Артемий Семёнов
     - name: Date of Birth
-      value: 14th March 1879
+      value: 03 Июля 1979
     - name: Languages
-      value: English, German
+      value: Русский
 
 - title: Education
   type: time_table
